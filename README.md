@@ -1,2 +1,2 @@
 # potential-robot
-BurgerArmy...
+BurgerArmy's first ever repository
